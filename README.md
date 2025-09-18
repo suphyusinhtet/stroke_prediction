@@ -162,7 +162,7 @@ imbalanced-learn>=0.8.0
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/stroke-prediction.git
+git clone https://github.com/suphyusinhtet/stroke-prediction.git
 cd stroke-prediction
 pip install -r requirements.txt
 ```
@@ -214,8 +214,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaborations, please reach out:
 - **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/su-phyu-sin-htet)
+- **GitHub**: [@suphyusinhtet](https://github.com/suphyusinhtet)
 
 ---
 
