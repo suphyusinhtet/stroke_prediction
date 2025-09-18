@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaborations, please reach out:
 - **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/su-phyu-sin-htet)
+- **LinkedIn**: [Su Phyu Sin Htet](https://linkedin.com/in/su-phyu-sin-htet)
 - **GitHub**: [@suphyusinhtet](https://github.com/suphyusinhtet)
 
 ---
