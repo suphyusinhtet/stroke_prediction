@@ -85,12 +85,12 @@ This project conducts an in-depth analysis of the [Stroke Prediction Dataset](ht
 
 | Model | Accuracy | AUC | Precision | Recall | F1-Score |
 |-------|----------|-----|-----------|--------|----------|
-| **Logistic Regression (No SMOTE)** | 95% | 0.80 | 0.16 | 0.45 | 0.86 |
-| **Logistic Regression (Initial)** | 85% | 0.80 | 0.16 | 0.45 | 0.86 |
-| **Decision Tree** | 89% | 0.65 | 0.17 | 0.35 | 0.88 |
-| **XGBoost** | 71% | 0.83 | 0.13 | 0.92 | 0.71 |
-| **Random Forest** | 75% | 0.84 | 0.14 | 0.89 | 0.75 |
-| **Logistic Regression (Tuned)** | 84% | 0.83 | 0.18 | 0.71 | 0.84 |
+| **Logistic Regression (No SMOTE)** | 94% | 0.85 | 0.5 | 0.02 | 0.91 |
+| **Logistic Regression (After SMOTE)** | 82% | 0.80 | 0.16 | 0.45 | 0.86 |
+| **Decision Tree** | 85% | 0.65 | 0.17 | 0.35 | 0.88 |
+| **XGBoost** | 66.14% | 0.83 | 0.13 | 0.89 | 0.75 |
+| **Random Forest** | 66.14% | 0.84 | 0.14 | 0.89 | 0.75 |
+| **Logistic Regression (Tuned)** | 78% | 0.83 | 0.18 | 0.71 | 0.83 |
 
 ### Key Performance Insights
 
