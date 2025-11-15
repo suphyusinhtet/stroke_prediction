@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions or collaborations, please reach out:
-- **Email**: your.email@example.com
+- **Email**: suphyusinhtet@gmail.com
 - **LinkedIn**: [Su Phyu Sin Htet](https://linkedin.com/in/su-phyu-sin-htet)
 - **GitHub**: [@suphyusinhtet](https://github.com/suphyusinhtet)
 
